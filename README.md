@@ -1,4 +1,6 @@
-- 👋 Hi, Yong Son 
+- 👋 Hi, this is Yong Son 
+- Graduated Pennsylvania State University - University Park (class of 2011) 
+- Major in Economics. 
 
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

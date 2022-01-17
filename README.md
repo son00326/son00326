@@ -1,23 +1,19 @@
-- 👋 Hi, this is Yong Son 
-- Graduated Pennsylvania State University - University Park (class of 2011) 
-- Major in Economics. 
+Yong Son    
+Graduated Pennsylvania State University - University Park (class of 2011)    
+Major in Economics.    
+   
+Check below to see which stacks I used.   
 
-Tech Stack : Stacks that I've used at least once🌟
-🎧Languages
+🔧Languages
 Dart Java Python R CSS3 HTML5
 
-
 🔧Development Tools
-Flutter Eclipse Jupyter Notebook Figma Visual Studio Code
+Flutter Eclipse Jupyter Notebook Visual Studio Code
+Apache Tomcat MySQL
 
-Apache Tomcat MySQL SQLite Firebase
-
-
-:octocat:Communication Tools
+🔧Communication Tools
 GitHub Slack Jira
 
-
-header
 
 🌱Notion🌱
 
